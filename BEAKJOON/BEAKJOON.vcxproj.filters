@@ -150,5 +150,8 @@
     <ClCompile Include="3_숫자의 개수.c">
       <Filter>소스 파일\6_1차원 배열</Filter>
     </ClCompile>
+    <ClCompile Include="4_나머지.c">
+      <Filter>소스 파일\6_1차원 배열</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
